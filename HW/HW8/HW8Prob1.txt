@@ -1,0 +1,15 @@
+Justin Li
+Dr. Linnell
+CSCI 169
+27 May 2020
+
+HW 8 Problem 1:
+
+I found it interesting that even though functional programming has been around for a long time, it only recently has gained popularity, especially in distributed systems. 
+I also never knew that Twitter uses Scala pretty heavily. 
+They also brought up that Facebook and AT&T use functional programming languages for their delivery and security networks. 
+Additionally, I didn’t know that Python includes a lot of features of functional programming, since I’ve never used those aspects before. 
+Also, I found it interesting that when describing functional programming, they simply state that data is immutable, meaning it never changes, 
+and that the programs themselves are stateless, meaning it doesn’t depend on what happened earlier in the execution of the program. 
+Furthermore, I’ve never heard about the reduce() function before, but it looks very useful in functional programming when adding up an array. 
+I can also see the use in the map() function.
